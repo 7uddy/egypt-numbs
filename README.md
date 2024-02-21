@@ -6,3 +6,7 @@ This app has been made using **tkinter** python module.<br>
 -> Convert decimal numbers in the symbols that egyptian used. <br><br>
 -> Add two numbers based on egyptian math.<br><br>
 -> Multiply two numbers using the egyptian algorithm. 
+
+**Team members:**<br>
+Ene Călin Tudor
+Geană Andrei
