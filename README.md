@@ -8,5 +8,5 @@ This app has been made using **tkinter** python module.<br>
 -> Multiply two numbers using the egyptian algorithm. 
 
 **Team members:**<br>
-Ene Călin Tudor
-Geană Andrei
+**[Ene Călin Tudor](https://github.com/7uddy)**<br>
+**[Geană Andrei](https://github.com/Andrei-Geana)**
