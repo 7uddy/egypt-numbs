@@ -1,4 +1,5 @@
 # egypt-numbs
+**[Project documentation](https://github.com/7uddy/egypt-numbs/blob/main/Documentation_Egypt.pdf)**<br><br>
 A basic app that introduces to the way that egyptian used to do math.<br>
 This app has been made using **tkinter** python module.<br>
 
